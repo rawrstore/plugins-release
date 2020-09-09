@@ -1,0 +1,18 @@
+[
+  {
+    "projectUrl": "https://discord.gg/",
+    "provider": "Rawrstore",
+    "name": "Test Plugin",
+    "description": "Test plugin",
+    "id": "test-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "B806F2CDE15D9762A2756F900C5203BA9BFFDA01C8C1A45BA26B90960A766C76DEC590FA373379B3D4BF3D01B1C6A38915C8617C83E663D1B03D6BAEC3782DCC",
+        "version": "0.0.1",
+        "url": "",
+        "requires": "0.0.1"
+      }
+    ]
+  }
+]
