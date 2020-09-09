@@ -10,7 +10,7 @@
         "date": "2020-02-08",
         "sha512sum": "9798D518656482A870112C206EBD719F6B8C4CF88DE220A1B59BD5104D00596298E299FCB232BE075BE0500F90D4DBC069638586B2205F02678769A13D796BF1",
         "version": "0.0.1",
-        "url": "https://github.com/rawrstore/plugins-release/blob/master/release/example.main.jar?raw=true",
+        "url": "https://github.com/rawrstore/plugins-release/blob/master/release/test.plugin.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
